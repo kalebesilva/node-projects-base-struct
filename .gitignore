@@ -23,7 +23,7 @@
 
 # TypeORM
 ormconfig.json
-migrations/
+
 
 # Nodemon
 nodemon.json
