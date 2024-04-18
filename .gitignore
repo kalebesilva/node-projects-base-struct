@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/dist
+
+# misc
+.DS_Store
+.env
+.env.test
+.env.production
+
+# IDE
+/.idea
+*.iml
+.vscode/
+
+# TypeScript
+.tsbuildinfo
+
+# TypeORM
+ormconfig.json
+migrations/
+
+# Nodemon
+nodemon.json
+
+# ESLint
+.eslintrc
